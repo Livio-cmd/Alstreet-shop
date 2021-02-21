@@ -8,6 +8,9 @@
     a {
         font-size: 2rem;
     }
+    a.email {
+        font-size: 1.8rem;
+    }
 }
 
 @media screen and (min-width: 1000px) {
